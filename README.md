@@ -101,7 +101,8 @@ Every entry links to the provider's official pricing or API docs page. Prices ch
 - [Photoroom](https://www.photoroom.com/api/pricing) - Background removal and product photo editing API.
 - [Recraft](https://www.recraft.ai/pricing) - Image and vector generation with brand style controls.
 - [remove.bg](https://www.remove.bg/api) - Background removal API for people, products and cars.
-- [Stability AI](https://platform.stability.ai/pricing) - Stable Diffusion image generation, editing, control and upscaling.
+- [Stability AI](https://platform.stability.ai/pricing) - Stable Diffusion image generation, editing, control and upscaling.-
+- [VELIN Image API](https://72agi.com/nano-banana-api-pricing.html) - Pay-per-image async REST API for Nano Banana Pro/2 and GPT Image 2/2.5, up to 14 reference images, failed generations not charged. Price: about $0.037 per image, flat at 1K/2K/4K.
 
 ## API Aggregators
 
